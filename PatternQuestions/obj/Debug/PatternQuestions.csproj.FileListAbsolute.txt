@@ -1,0 +1,7 @@
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\bin\Debug\PatternQuestions.exe.config
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\bin\Debug\PatternQuestions.exe
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\bin\Debug\PatternQuestions.pdb
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\obj\Debug\PatternQuestions.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\obj\Debug\PatternQuestions.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\obj\Debug\PatternQuestions.exe
+C:\Users\khush\source\repos\PatternQuestions\PatternQuestions\obj\Debug\PatternQuestions.pdb
