@@ -121,6 +121,8 @@ namespace PatternQuestions
                 Console.WriteLine();
             }
 
+            khushi khandelwal
+
         }
     }
 }
