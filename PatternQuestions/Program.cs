@@ -119,6 +119,7 @@ namespace PatternQuestions
                     Console.Write("*");
                 }
                 Console.WriteLine();
+                khushi khandelwal
             }
 
             khushi khandelwal
